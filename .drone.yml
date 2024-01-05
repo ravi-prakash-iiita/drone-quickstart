@@ -4,7 +4,7 @@ type: docker
 name: default
 
 platform:
-  os: darwin
+  os: ubuntu
   arch: arm64
 
 steps:
