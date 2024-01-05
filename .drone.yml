@@ -3,10 +3,6 @@ kind: pipeline
 type: docker
 name: default
 
-platform:
-  os: ubuntu
-  arch: arm64
-
 steps:
 - name: hello
   image: busybox
